@@ -1,4 +1,4 @@
-### Hi there 👋
+![giphy](https://github.com/Huaty/Huaty/assets/50129813/2a1dc8bf-ac84-4065-9e67-ccd40669edec)### Hi there 👋
 
 <!--
 **Huaty/Huaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,9 +12,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...!
+
+
+[giphy](https://github.com/Huaty/Huaty/assets/50129813/09a7aff8-57ce-4f2a-8386-33ad8b4f804a)
+
 -->
 
-<p align="center">
-  <img src="https://giphy.com/gifs/crayon-shinchan-shin-chan-Y4P943aTJRCYfperyN=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
+
+
