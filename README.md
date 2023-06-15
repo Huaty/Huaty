@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...!
 
-
-![giphy](https://github.com/Huaty/Huaty/assets/50129813/2a1dc8bf-ac84-4065-9e67-ccd40669edec)
 -->
+
+![giphy](https://github.com/Huaty/Huaty/assets/50129813/68169b9a-b439-4cd3-aafe-258f9f9ded3e)
+
 
 
 
