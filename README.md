@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 -->
 
-![](https://github.com/Huaty/main/lofi.gif)
+
+![lofi](https://github.com/Huaty/Huaty/assets/50129813/887f650b-71a9-41f4-afb6-25f9a2fc4a84)
 
 
 
