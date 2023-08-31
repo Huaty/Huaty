@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-![giphy](https://github.com/Huaty/Huaty/lofi.gif)
+![](https://github.com/Huaty/Huaty/lofi.gif)
 
 
 
