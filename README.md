@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-![giphy](https://github.com/Huaty/Huaty/assets/50129813/68169b9a-b439-4cd3-aafe-258f9f9ded3e)
+![giphy](https://github.com/Huaty/Huaty/lofi.gif)
 
 
 
