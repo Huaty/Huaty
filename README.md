@@ -1,7 +1,7 @@
 ### Hello everyone, I am Wen Huat  👋
 
 
-I am a proficient software developer with a solid foundation in programming, known for my resilience and perseverance through complex challenges. Dedicated to continuous learning and staying abreast of the latest industry trends, I regularly enhance my skill set through online courses and practical projects. Enthusiastically committed to full-stack development, I possess a strong interest and foundational knowledge in integrating front-end and back-end technologies to create comprehensive, scalable, and efficient cloud-based solutions. Eager to expand my expertise in this area,
+Enthusiastically committed to full-stack development, I possess a strong interest and foundational knowledge in integrating front-end and back-end technologies to create comprehensive, scalable, and efficient cloud-based solutions. Eager to expand my expertise in this area,
 
 
 
