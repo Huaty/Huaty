@@ -1,4 +1,6 @@
-## <div style="text-align: center;">👋 Hi, I'm Wen Huat</div>
+<div style="text-align: center;"> 
+👋 Hi, I'm Wen Huat
+</div>
 Coding is just Crying 
 
 **💻 Skills & Tools:**
