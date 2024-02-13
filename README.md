@@ -1,4 +1,6 @@
-<div style="text-align: center;"> 
+<div style="
+  display:flex,
+  text-align: center;"> 
 👋 Hi, I'm Wen Huat
 </div>
 Coding is just Crying 
