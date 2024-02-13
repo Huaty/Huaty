@@ -1,6 +1,8 @@
 ## 👋  Hi, I'm Wen Huat
 A [brief description of yourself - e.g., software developer, aspiring data scientist, etc.]
 
+![Github Stats](https://wenhuat.com/)
+
 **💻 Skills & Tools:**
 * Python 
 * JavaScript
