@@ -31,9 +31,9 @@ Coding is just Crying
 
 
 
-<div align="center">
+
 ![lofi](https://github.com/Huaty/Huaty/assets/50129813/887f650b-71a9-41f4-afb6-25f9a2fc4a84)
-</div>
+
 
 
 
