@@ -22,7 +22,7 @@ Coding is just Crying
 * JavaScript, Web Development
 
 **📫 How to reach me:**
-[https://wenhuat.com/]
+![Personal Website][https://wenhuat.com/]
 [https://www.linkedin.com/in/chua-wen-huat/]
 
 **⚡ Fun fact:**
