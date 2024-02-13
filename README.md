@@ -21,14 +21,12 @@ Coding is just Crying
 **💬 Ask me about:**
 * JavaScript, Web Development
 
-**📫 How to reach me:**
-[https://wenhuat.com/]
+**📫 How to reach me:**<br>
+[https://wenhuat.com/]<br>
 [https://www.linkedin.com/in/chua-wen-huat/]
 
 **⚡ Fun fact:**
-[Something interesting and non-tech related about you!] 
-
-
+There's a rubber duck debugging method where programmers explain their code, line by line, to a rubber duck to gain insights into problems.🦆
 
 
 
