@@ -1,5 +1,5 @@
 # <div  align="center"> 👋 Hi, I'm Wen Huat</div>
-## <div align="center">Coding is just Crying </div>
+### <div align="center">Coding is just Crying </div>
 
 **💻 Skills & Tools:**
 * HTML and CSS
