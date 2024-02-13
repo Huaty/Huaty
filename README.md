@@ -1,7 +1,5 @@
-## 👋  Hi, I'm Wen Huat
-A aspiring software developer 
-
-
+## <div style="text-align: center;">👋 Hi, I'm Wen Huat</div>
+Coding is just Crying 
 
 **💻 Skills & Tools:**
 * HTML and CSS
@@ -30,7 +28,7 @@ A aspiring software developer
 **⚡ Fun fact:**
 [Something interesting and non-tech related about you!] 
 
-Enthusiastically committed to full-stack development, I possess a strong interest and foundational knowledge in integrating front-end and back-end technologies to create comprehensive, scalable, and efficient cloud-based solutions. Eager to expand my expertise in this area,
+
 
 
 
