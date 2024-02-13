@@ -1,29 +1,31 @@
 ## 👋  Hi, I'm Wen Huat
-A [brief description of yourself - e.g., software developer, aspiring data scientist, etc.]
+A aspiring software developer 
 
-![Github Stats](https://wenhuat.com/)
+
 
 **💻 Skills & Tools:**
-* Python 
+* HTML and CSS
 * JavaScript
 * React 
 * SQL
 * AWS
+* Nodejs
+* Java
 
 **🌱 I'm currently learning:**
-* Machine Learning
+* Backend Programming
 * Cloud Architecture
 
 **🤔 I'm looking to collaborate on:**
 * Web development projects
-* Open-source initiatives 
+* 
 
 **💬 Ask me about:**
-* Python, JavaScript, Web Development
+* JavaScript, Web Development
 
 **📫 How to reach me:**
-[Link to your website/portfolio]
-[Link to your LinkedIn]
+[https://wenhuat.com/]
+[https://www.linkedin.com/in/chua-wen-huat/]
 
 **⚡ Fun fact:**
 [Something interesting and non-tech related about you!] 
