@@ -1,4 +1,4 @@
-## <div  align="center"> 👋 Hi, I'm Wen Huat</div>
+# <div  align="center"> 👋 Hi, I'm Wen Huat</div>
 Coding is just Crying 
 
 **💻 Skills & Tools:**
