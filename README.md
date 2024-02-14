@@ -11,7 +11,8 @@
 * Java
 
 **🌱 I'm currently learning:**
-* Backend Programming
+* Backend Programming (Node Js, SpringBoot)
+* Database Architecture 
 * Cloud Architecture
 
 **🤔 I'm looking to collaborate on:**
