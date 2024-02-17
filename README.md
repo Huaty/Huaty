@@ -17,7 +17,7 @@
 
 **🤔 I'm looking to collaborate on:**
 * Web development projects
-* Blockchain
+* Cloud Computing
 
 
 **💬 Ask me about:**
