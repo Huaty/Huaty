@@ -2,7 +2,7 @@
 ### <div align="center">Coding is just Crying </div>
 
 # 💫 About Me:
-💻 Skills & Tools:<br><br>HTML and CSS<br>JavaScript<br>React<br>SQL<br>AWS<br>Nodejs<br>Java<br>🌱I'm currently learning:<br>Backend Programming (Node Js, SpringBoot)<br>Database Architecture<br>Cloud Architecture<br>🤔 I'm looking to collaborate on:<br><br>Web development projects<br>Cloud Computing<br>💬 Ask me about:<br><br>JavaScript, Web Development<br>📫 How to reach me:<br>[https://wenhuat.com/]<br>[https://www.linkedin.com/in/chua-wen-huat/]<br><br>⚡ Fun fact: There's a rubber duck debugging method where programmers explain their code, line by line, to a rubber duck to gain insights into problems.🦆
+🌱I'm currently learning:<br>Backend Programming (Node Js, SpringBoot)<br>Database Architecture<br>Cloud Architecture<br>🤔 I'm looking to collaborate on:<br><br>Web development projects<br>Cloud Computing<br>💬 Ask me about:<br><br>JavaScript, Web Development<br>📫 How to reach me:<br>[https://wenhuat.com/]<br>[https://www.linkedin.com/in/chua-wen-huat/]<br><br>⚡ Fun fact: There's a rubber duck debugging method where programmers explain their code, line by line, to a rubber duck to gain insights into problems.🦆
 
 
 ## 🌐 Socials:
